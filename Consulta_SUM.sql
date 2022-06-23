@@ -1,0 +1,2 @@
+SELECT SUM(VALUE) 
+FROM sales 

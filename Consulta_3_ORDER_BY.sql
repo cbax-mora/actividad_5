@@ -1,0 +1,3 @@
+SELECT value ,ID ,NAME
+FROM discoints
+ORDER BY NAME
